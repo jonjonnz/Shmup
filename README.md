@@ -1,1 +1,1 @@
-# Shmup
+# Shoot'em up
